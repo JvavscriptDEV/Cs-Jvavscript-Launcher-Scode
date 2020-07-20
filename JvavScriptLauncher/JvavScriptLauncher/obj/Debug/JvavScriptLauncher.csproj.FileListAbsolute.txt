@@ -1,0 +1,10 @@
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\bin\Debug\JvavScriptLauncher.exe.config
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\bin\Debug\JvavScriptLauncher.exe
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\bin\Debug\JvavScriptLauncher.pdb
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.csprojAssemblyReference.cache
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.Form1.resources
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.Properties.Resources.resources
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.csproj.GenerateResource.cache
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.csproj.CoreCompileInputs.cache
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.exe
+C:\Users\TangCheng\source\repos\JvavScriptLauncher\JvavScriptLauncher\obj\Debug\JvavScriptLauncher.pdb
