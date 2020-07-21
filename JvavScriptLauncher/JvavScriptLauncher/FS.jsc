@@ -1,0 +1,34 @@
+.JVAVSCRIPT Prorgamm FILE COMMIT::STD
+{
+	@echo off
+	echo THIS IS A JVAVSCRIPT UNEXECUTEABLE FILE!!!
+	echo ===================================================
+	#========THIS IS NOT A CMD FILE!===========
+	#=THIS IS A JVAVSCRIPT UNEXECUTEABLE FILE!=====
+}
+@OVERSETED;
+@UTF_8;
+SCRIPT::STD
+{
+	inport jvavscript.io.Crash;
+	Crash.UNCRASH.CONFIRM;
+	var x | 0;
+	var majic Y | NULL;
+	var POINT SETTING majic Y | *(X++)**%8^^;
+	'Y->X'::UNI-UTF8.THROWS OUT;
+	JS.OUTLINE:("RAWTEXT":"INSTALL JVAVSCRIPT[{A:0,B:1,C:30,MXPX:30,MNPX:10}]");
+	assert(UNI.UTF8-INSED[])
+	{
+		EXIT(ERROR::ASSERT | UNI.UTF8-INSED[VALUE]);
+	}
+	PUBLIC STATE INT MAIN(STRING[**Y-&X],CONST VOID Y)
+	{
+		STR::UNI.OUT{"RAWTEXT":"EUSX[VALUE]"};
+	}
+}
+FREE(X);
+FREE(Y);
+Y | NULL;
+ENDSCRIPT::STD;
+**.x.replace;
+***.y.x.->NULL;
