@@ -23,7 +23,7 @@ namespace JvavScriptLauncher
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Process p = Process.Start(".\\web\\mainpage.html");
+            Process p = Process.Start("http://www.jvavexec.top/");
             p.WaitForExit();
         }
         private void button2_Click(object sender, EventArgs e)
@@ -46,7 +46,7 @@ namespace JvavScriptLauncher
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Process p = Process.Start(".\\web\\404.html");
+            Process p = Process.Start("http://www.jvavexec.top/404.html");
             p.WaitForExit();
         }
 
